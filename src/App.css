@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+    height: 100px;
+    pointer-events: none;
+    float: left;
+}
+
+
+.App-header {
+    background-color: #282c34;
+    background-size: cover;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-size: calc(25px + 2vmin);
+    color: white;
+}
+
+.login-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login-input {
+    margin: 5px;
+}
+
+.login-button {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-body {
+    background-image: url('./mcbookshelftexture.png');
+    background-size: contain;
+    align-items: center;
+    height: 1000px;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fe5d265.css",
+    "main.js": "/static/js/main.8e0baf30.js",
+    "static/js/787.5ec3bc98.chunk.js": "/static/js/787.5ec3bc98.chunk.js",
+    "static/media/librologo.png": "/static/media/librologo.e36ea84a422781805689.png",
+    "static/media/mcbookshelftexture.png": "/static/media/mcbookshelftexture.dbc8d494ce239dbd667a.png",
+    "index.html": "/index.html",
+    "main.6fe5d265.css.map": "/static/css/main.6fe5d265.css.map",
+    "main.8e0baf30.js.map": "/static/js/main.8e0baf30.js.map",
+    "787.5ec3bc98.chunk.js.map": "/static/js/787.5ec3bc98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe5d265.css",
+    "static/js/main.8e0baf30.js"
+  ]
+}
